@@ -83,9 +83,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, please reach out:
 
-- Email: example@example.com
-- Phone: 123-456-7890
-- GitHub: [your-username](https://github.com/your-username)
+- Email: madhuriediga8@gmail.com
+- Phone: 8143265327
+- GitHub: https://github.com/Madhuri50
 
 ---
 
